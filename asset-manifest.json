@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://habibmy.github.io/csb-pjf73/static/css/main.af767007.chunk.css",
+    "main.js": "https://habibmy.github.io/csb-pjf73/static/js/main.6647806c.chunk.js",
+    "main.js.map": "https://habibmy.github.io/csb-pjf73/static/js/main.6647806c.chunk.js.map",
+    "runtime-main.js": "https://habibmy.github.io/csb-pjf73/static/js/runtime-main.5bf20015.js",
+    "runtime-main.js.map": "https://habibmy.github.io/csb-pjf73/static/js/runtime-main.5bf20015.js.map",
+    "static/js/2.630a3eed.chunk.js": "https://habibmy.github.io/csb-pjf73/static/js/2.630a3eed.chunk.js",
+    "static/js/2.630a3eed.chunk.js.map": "https://habibmy.github.io/csb-pjf73/static/js/2.630a3eed.chunk.js.map",
+    "index.html": "https://habibmy.github.io/csb-pjf73/index.html",
+    "static/css/main.af767007.chunk.css.map": "https://habibmy.github.io/csb-pjf73/static/css/main.af767007.chunk.css.map",
+    "static/js/2.630a3eed.chunk.js.LICENSE.txt": "https://habibmy.github.io/csb-pjf73/static/js/2.630a3eed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf20015.js",
+    "static/js/2.630a3eed.chunk.js",
+    "static/css/main.af767007.chunk.css",
+    "static/js/main.6647806c.chunk.js"
+  ]
+}
